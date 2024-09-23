@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+}
+
+button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    color: darkolivegreen;
+    
+    width: 100px;
+    padding: 7px 8px 7px 32px;
+    border: 1px solid darkolivegreen;
+    border-radius: 7px;
+    margin-top: 10px;
+    background-position: 5px;
+    background-size: 35px;
+    background-repeat: no-repeat;
+}
+
+button.login{
+    background-image: url(imej/login.png);
+}
+
+button.signup{
+    background-image: url(imej/signup.png);
+}
+
+button.hantar{
+    background-image: url(imej/signup.png);
+}
+
+button.batal{
+    background-image: url(imej/delete.png);
+}
+
+button.import{
+   background-image: url(imej/import.png); 
+}
+
+button.tambah{
+    background-image: url(imej/tambah.png);
+}
+
+button.update{
+    background-image: url(imej/update.png);
+}
+
+button.merah{
+    background-image: url(imej/merah.png);
+}
+
+button.biru{
+    background-image: url(imej/blue.png);
+}
+
+button.hijau{
+    background-image: url(imej/hijau.png);
+}
+
+button.hitam{
+    background-image: url(imej/hitam.png);
+}
+
+button.cetak{
+    background-image: url(imej/cetak.png);
+}
+
+button.papar{
+    background-image: url(imej/papar.png);
+}
+
+button.cari{
+    background-image: url(imej/search.png);
+}
+

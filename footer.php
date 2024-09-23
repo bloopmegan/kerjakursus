@@ -1,0 +1,3 @@
+<footer>
+HAK CIPTA TERPELIHARA @ PERPUSTAKAAN NEGERI SABAH<br>
+</footer>
